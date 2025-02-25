@@ -1,4 +1,4 @@
-# Análise de Sentimentos com Rede Neural (Bag of Words)**
+# Análise de Sentimentos com Rede Neural (Bag of Words)
 
 ## Descrição
 Este notebook realiza a análise de sentimentos de revisões críticas de filmes do IMDB, utilizando uma rede neural de 2 camadas lineares com a técnica de **Bag of Words**. O objetivo é treinar o modelo para classificar as revisões como positivas ou negativas, com base no conteúdo textual.
